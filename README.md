@@ -5,8 +5,7 @@ The Temperature Converter App is a simple application that allows you to convert
 ## Features
 
 - Convert temperatures between Celsius, Fahrenheit.
-- Real-time conversion updates as you input the temperature value.
-- Clear and intuitive user interface for easy interaction.
+- Clear and intuitive CLI user interface for easy interaction.
 - Support for both positive and negative temperature values.
 
 ## Technologies Used
