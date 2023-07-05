@@ -25,3 +25,6 @@ The Temperature Converter App is a simple application that allows you to convert
 
    ```shell
    go run main.go
+
+``` shell
+    git clone
