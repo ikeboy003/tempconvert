@@ -23,7 +23,7 @@ The Temperature Converter App is a simple application that allows you to convert
 
 2. Run the app:
 
-   ```go
+   ```shell
    go run main.go
 
 
