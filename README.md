@@ -23,8 +23,8 @@ The Temperature Converter App is a simple application that allows you to convert
 
 2. Run the app:
 
-   ```shell
+   ```powershell
    go run main.go
 
-    ``` shell
-        git clone
+
+ 
